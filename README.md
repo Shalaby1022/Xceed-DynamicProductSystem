@@ -105,8 +105,8 @@ The **XceedBookly** is a system designed to manage and display products based on
 
 ---
 
-## **Technical Documentation**
-📑 Access the full **[Technical Documentation](#)** for an in-depth explanation of the application's architecture, design choices, and best practices.
+## **Technical Documentation**  
+📑 Access the full **[Technical Documentation](https://github.com/Shalaby1022/Xceed-DynamicProductSystem/blob/main/Technical%20Documentation.pdf)** for an in-depth explanation of the application's architecture, design choices, and best practices.
 
 ---
 

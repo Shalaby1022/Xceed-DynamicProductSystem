@@ -13,7 +13,7 @@ The **XceedBookly** is a system designed to manage and display products based on
 6. [Screen Recording of the System](#screen-recording-of-the-system)
 7. [How to Run the System](#how-to-run-the-system)
 ---
-## **User Journey**
+![User Journey Flowchart](https://github.com/Shalaby1022/Xceed-DynamicProductSystem/blob/main/User%20Journey.png)
 
 ### **Identity Registration**
 - Users can register with a **form** that includes:
@@ -33,6 +33,8 @@ The **XceedBookly** is a system designed to manage and display products based on
    - Can navigate to a **Details View** of a product.
    - See product details like name, price, and description.
    - Select the **quantity** they wish to purchase (add-to-cart functionality is not yet implemented).
+
+
 
 ### **Admin Journey**
 1. **Registration**:

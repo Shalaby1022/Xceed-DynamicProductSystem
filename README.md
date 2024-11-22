@@ -113,7 +113,7 @@ The **XceedBookly** is a system designed to manage and display products based on
 ---
 
 ## **Screen Recording of the System**
-🎥 Watch the system in action with this **[Screen Recording](#)** showcasing all functionalities.
+🎥 Watch the system in action with this **[Screen Recording](https://drive.google.com/file/d/1bG2VNMGHYLFNl9DxEr1TsW06A_oZB3ex/view?usp=drive_link)** showcasing all functionalities.
 
 ---
 
